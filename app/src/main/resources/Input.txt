@@ -1,2 +1,4 @@
 String in Scala are arrays of 16-bit Chars
-Tuples are a collection of values that can be of different types. It can be 1 to 22 items long. Tuples are usually pretty small, so if they are getting larger and more complex (more fields can get mixed up since you call items in tuples by number. Consider using a case class or defining a class
+Tuples are a collection of values that can be of different types. It can be 1 to 22 items long. Tuples are usually pretty small, so if they are getting larger and more complex (more fields can get mixed up since you call items in tuples by number). Consider using a case class or defining a class
+Scala 3 removed the need to write the "new" keyword for classes
+Scala List data structure is implemented as a Linked List
